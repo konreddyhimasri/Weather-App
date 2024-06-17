@@ -1,0 +1,46 @@
+body {
+    font-family: 'Lucida Sans', sans-serif;
+    background-color: #e6f7ff;
+    color: #005b96;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+input[type="text"] {
+    width: 80%;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #3399ff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #2878b5;
+}
+
+.error {
+    color: red;
+}
+
+#weather-result {
+    margin-top: 20px;
+}
+
+canvas {
+    margin-top: 20px;
+}
