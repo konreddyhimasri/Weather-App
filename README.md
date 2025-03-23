@@ -91,4 +91,5 @@ The frontend consists of a simple HTML page where users can enter a city name. J
 ![Image](https://github.com/user-attachments/assets/14991283-b3ea-4d91-8fef-521231832d74)
 
 **VIDEO REFERENCE:**
+
 https://github.com/user-attachments/assets/ba013f38-6cad-41a0-8293-6807f70abbe2
